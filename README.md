@@ -57,8 +57,13 @@ for i in range(3):
 TODO:
 
 [X] html file done
+
 [X] contact form done
+
 [] CSS intro done
+
 [] CSS
+
 [x] JavaScript done
+
 [] Java intro
